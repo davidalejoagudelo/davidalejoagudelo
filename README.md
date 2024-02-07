@@ -4,7 +4,7 @@
 
 <img src="https://github.com/davidalejoagudelo/davidalejoagudelo/blob/189dc1c71283d75bf238b41668d67db9eb3c3297/David_Agudelo.png">
 
-## Sobre mi
+## About me
 
 
 "Hello! My name is David, agronomic engineer from the National University of Colombia, Bogotá campus 🎓.
