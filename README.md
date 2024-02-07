@@ -6,12 +6,22 @@
 
 ## Sobre mi
 
-¡Hola! Mi nombre es David, ingeniero agrónomo de la Universidad Nacional de Colombia de la sede Bogotá 🎓.
 
-Soy apasionado por el entendimiento de los suelos y la fisiología vegetal, así como de la agricultura de precisión, el análisis de datos y la automatización orientado a la producción agrícola 🌱👨🏼‍💻.
+"Hello! My name is David, agronomic engineer from the National University of Colombia, Bogotá campus 🎓.
 
-A lo largo de mi estudios universitarios tuve la oportunidad de apoyar como monitor en cursos de fisiología vegetal y manejo de fertilidad de suelo, guiando a los estudiantes en las diferentes temáticas propuestas 👨🏼‍🏫 (2020 - 2022). Por otro lado, realicé el montaje de ensayos y análisis de datos de diseños experimentales enfocados en la bioestimulación vegetal a nivel foliar y edáfico 🧑🏼‍🌾 (2020 - 2022). 
+I am passionate about understanding soils and plant physiology, as well as precision agriculture, data analysis, and automation oriented towards agricultural production 🌱👨🏼‍💻.
 
-Paralelo a esto, los conocimientos adquiridos a partir de proyectos personales me han permitido realizar instalación de sistemas de fertirriego por goteo en jardines verticales y ensayos en plantas de rosa, así como el diseño y fabricación de sistemas hidropónicos, y herramientas para la medición de variables ambientales y de calidad del agua, mediante el uso de sensores comerciales, microcontroladores y lenguajes de programación 🧑🏼‍💻 (2019 - actualidad).
+Throughout my university studies, I had the opportunity to support as a teaching assistant in courses on plant physiology and soil fertility management, guiding students on various proposed topics 👨🏼‍🏫 (2020 - 2022). On the other hand, I carried out the setup of trials and data analysis of experimental designs focused on plant biostimulation at the leaf and soil level 🧑🏼‍🌾 (2020 - 2022).
 
-¡Soy un seguidor de la implementación de tecnologías en el sector agrícola!
+In parallel to this, the knowledge gained from personal projects has allowed me to install drip fertigation systems in vertical gardens and conduct trials on rose plants, as well as design and manufacture hydroponic systems and tools for measuring environmental variables and water quality, using commercial sensors, microcontrollers, and programming languages 🧑🏼‍💻 (2019 - present).
+
+I am a follower of the implementation of technologies in the agricultural sector!"
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/davidalejoagudelo)">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidalejoagudelo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidalejoagudelo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
